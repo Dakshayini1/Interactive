@@ -9,8 +9,8 @@ To get started, clone the repository and install the dependencies.
 
 ```
 
-git clone https://github.com/Ronaksharma57/interactive-data-visualization.git
-cd interactive-data-visualization
+git clone https://github.com/Dakshayini1/Interactive.git
+cd Interactive
 npm install
 
 ```
